@@ -1,0 +1,15 @@
+src/ConsoleApp/obj/
+src/Domain/bin/
+src/Application/obj/
+src/ConsoleApp/bin/
+src/Domain/obj/
+src/Infrastructure/obj/
+test/Domain.Test/obj/project.nuget.cache
+src/Application/bin/
+src/Infrastructure/bin/
+test/ConsoleApp.Test/obj/
+test/Domain.Test/obj/
+tests/ConsoleApp.Test/bin/
+tests/Domain.Test/bin/
+tests/Domain.Test/obj/
+tests/ConsoleApp.Test/obj/
